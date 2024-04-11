@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.formname{
+    color: red;
+    text-align: center;
+    margin: 20PX;
+}
+
+
+.main{
+    background-color: whitesmoke;
+ }
+ .firstname {
+     margin-left: 246px;
+     width: 500px;
+ }
+
+ .lastname{
+     margin-left: 248px;
+     width: 500px;
+ }
+
+ .emailid {
+     margin-left: 280px;
+     width: 500px;
+ }
+
+ .Mobileno {
+     margin-left: 272px;
+     width: 500px;
+ }
+
+ .GenderMale{
+ margin-left: 270px;
+}
+.Genderfemale{
+ margin-left: 10px;
+}
+ .date {
+     margin-left: 235px;
+     width: 500px;
+ }
+
+ .address {
+     margin-left: 328px;
+     width: 500px;
+ }
+
+ .City {
+     margin-left: 292px;
+     width: 500px;
+ }
+
+ .Areapin {
+     margin-left: 265px;
+     width: 500px;
+ }
+
+ .State {
+     margin-left: 290px;
+     width: 500px;
+ }
+
+ .text12 {
+     margin-left: 10px;
+     
+ }
+
+ .text13 {
+     margin-left: 10px;
+     
+ }
+
+ .text14 {
+     margin-left: 10px;
+    
+ }
+
+ .text15 {
+     margin-left: 10px;
+     
+ }
+ .Password {
+     margin-left: 260px;
+     width: 500px;
+ }
+ .qualification{
+     margin-left: 236px;
+     
+ }
+ .checkbox{
+     margin-left: 320px;
+ }
+ button{
+     background-color: green;
+ }
